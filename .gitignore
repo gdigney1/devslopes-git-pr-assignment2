@@ -1,0 +1,6 @@
+# sensitive data files
+.env*
+Windows.gitignore
+macOS.gitignore
+VisualStudioCode.gitignore
+Node.gitignore
